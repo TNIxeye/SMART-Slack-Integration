@@ -1,0 +1,8 @@
+D:\05 Projects\09 C#\SMART Integration\bin\Debug\netcoreapp1.1\SMART Integration.deps.json
+D:\05 Projects\09 C#\SMART Integration\bin\Debug\netcoreapp1.1\SMART Integration.runtimeconfig.json
+D:\05 Projects\09 C#\SMART Integration\bin\Debug\netcoreapp1.1\SMART Integration.runtimeconfig.dev.json
+D:\05 Projects\09 C#\SMART Integration\bin\Debug\netcoreapp1.1\SMART Integration.dll
+D:\05 Projects\09 C#\SMART Integration\bin\Debug\netcoreapp1.1\SMART Integration.pdb
+D:\05 Projects\09 C#\SMART Integration\obj\Debug\netcoreapp1.1\SMART Integration.AssemblyInfo.cs
+D:\05 Projects\09 C#\SMART Integration\obj\Debug\netcoreapp1.1\SMART Integration.dll
+D:\05 Projects\09 C#\SMART Integration\obj\Debug\netcoreapp1.1\SMART Integration.pdb
